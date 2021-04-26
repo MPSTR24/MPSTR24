@@ -1,6 +1,6 @@
 # [Maxwell Durrant](https://maxwelldurrant.co.uk)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Maxwell%20Durrant-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/https://www.linkedin.com/in/maxwell-durrant/)](https://www.linkedin.com/in/maxwell-durrant/) [![Twitter Badge](http://img.shields.io/badge/-@maxwell_durrant-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/maxwell_durrant)](https://twitter.com/maxwell_durrant) [![GitHub followers](https://img.shields.io/github/followers/MPSTR24s?label=Follow&style=social)](https://github.com/MPSTR24/?tab=follow) 
+[![Linkedin Badge](https://img.shields.io/badge/-Maxwell%20Durrant-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/https://www.linkedin.com/in/maxwell-durrant/)](https://www.linkedin.com/in/maxwell-durrant/) [![Twitter Badge](http://img.shields.io/badge/-@maxwell_durrant-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/maxwell_durrant)](https://twitter.com/maxwell_durrant) [![GitHub followers](https://img.shields.io/github/followers/MPSTR24?label=Follow&style=social)](https://github.com/MPSTR24/?tab=follow) 
 
 :wave: Hello! Welcome to my github profile, here you will see all of my various antics as I keep attempting to code on my day to day basis. I originally started off coding by making scripts to automatically collect resources in games but now it has become an addition or is it a hobby?
 
