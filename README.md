@@ -1,6 +1,6 @@
 # [Maxwell Durrant](https://maxwelldurrant.co.uk)
 
-<img src = "https://clickthrudesign.co.uk/images/githubBanner.gif">>
+<img src = "https://clickthrudesign.co.uk/images/githubBanner.gif">
 
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-Maxwell%20Durrant-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/https://www.linkedin.com/in/maxwell-durrant/)](https://www.linkedin.com/in/maxwell-durrant/) [![Twitter Badge](http://img.shields.io/badge/-@maxwell_durrant-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/maxwell_durrant)](https://twitter.com/maxwell_durrant) [![GitHub followers](https://img.shields.io/github/followers/ashleymavericks?label=Follow&style=social)](https://github.com/ashleymavericks/?tab=follow) 
