@@ -1,18 +1,34 @@
-# [Maxwell Durrant](https://maxwelldurrant.co.uk)
+<p align="center">
+  <img alt="typing intro" src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Welcome+to+my+profile.">
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Maxwell%20Durrant-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/https://www.linkedin.com/in/maxwell-durrant/)](https://www.linkedin.com/in/maxwell-durrant/) [![Twitter Badge](http://img.shields.io/badge/-@maxwell_durrant-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/maxwell_durrant)](https://twitter.com/maxwell_durrant) [![GitHub followers](https://img.shields.io/github/followers/MPSTR24?label=Follow&style=social)](https://github.com/MPSTR24/?tab=follow) 
 
-:wave: Hello! Welcome to my github profile, here you will see all of my various antics as I keep attempting to code on my day to day basis. I originally started off coding by making scripts to automatically collect resources in games but now it has become an addition or is it a hobby?
+<p align="center">
+  <a href="https://maxw3ll.com"><img alt="Website" src="https://img.shields.io/badge/Website-maxw3ll.com-0ea5e9?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
+  <a href="https://linkedin.com/in/maxwell-durrant"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maxwell%20Durrant-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/mpstr24"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-mpstr24-111827?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-These days I am up to coding anything from websites to python libraries and besides programming I am into :video_game: gaming and :book: reading. If you have a project or are in need of a collaborator let me know as I'm always willing to help and learn at the same time.
+---
 
-## Current projects
+### Common Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,vite,tailwind,html,css,postgres,redis,prisma,nginx,aws,docker,cloudflare,linux,bash,git,github,githubactions,pnpm,eslint,prettier&perline=10" alt="tech stack" />
+</p>
 
-Newest to oldest
-| Project | Language | Status | Enjoyment? |
-| ------ | ------ | ------ | ------ |
-| [![Python Scheduler](https://img.shields.io/static/v1?label=Python%20Scheduler%20-%20Private&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](link) | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)  | Ongoing | When it works |
-| [![Image Sorter](https://img.shields.io/static/v1?label=Image%20Sorter%20CNN%20-%20Private&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](link) |[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | Establishing training data | Yes |
-| [![Personal Site](https://img.shields.io/static/v1?label=Personal%20Site&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](link) | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=8993be&logo=PHP&logoColor=FFFFFF)](https://www.php.net/) [![SASS](https://img.shields.io/static/v1?label=&message=Sass&color=CC6699&logo=SASS&logoColor=FFFFFF)](https://sass-lang.com/) | Underconstruction | Always |
-| [![Mobile Application](https://img.shields.io/static/v1?label=Mobile%20Application%20-%20Private&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](link) | [![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&logo=dart&logoColor=white)](https://dart.dev/)  | Ongoing | Its... interesting |
-| [![Qr Code scanner Chrome Extension](https://img.shields.io/static/v1?label=Qr%20Code%20Scanner%20-%20Private&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](link) | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![JS](https://img.shields.io/static/v1?label=&message=JavaScript&color=000&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/) | Completed | Went well, works nicely 
+### Stats
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mpstr24&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=transparent&rank_icon=github"/>
+    <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mpstr24&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mpstr24&theme=transparent&hide_border=true"/>
+    <img height="165" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=mpstr24&hide_border=true"/>
+  </picture>
+</p>
+
+<p align="center">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/mpstr24/mpstr24/refs/heads/output/github-contribution-grid-snake.svg" />
+</p>
